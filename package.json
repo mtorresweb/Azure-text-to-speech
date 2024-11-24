@@ -1,0 +1,16 @@
+{
+  "name": "azure-text-to-speech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --env-file=.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "azure-text-to-speech": "file:",
+    "microsoft-cognitiveservices-speech-sdk": "^1.41.0"
+  }
+}
